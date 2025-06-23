@@ -1,4 +1,4 @@
-# 🧥 Women's Clothing E-Commerce Review Sentiment Analysis
+# Women's Clothing E-Commerce Review Sentiment Analysis
 
 This project analyzes customer reviews from a women's clothing e-commerce platform to extract insights and build sentiment classification models using machine learning and NLP.
 
